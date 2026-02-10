@@ -321,9 +321,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // ============================================
     // CONSOLE BRANDING
     // ============================================
-    console.log('%c⚡ Flowly', 'font-size: 24px; font-weight: bold; background: linear-gradient(135deg, #2563EB 0%, #3B82F6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;');
+    console.log('%c⚡ LogisAI', 'font-size: 24px; font-weight: bold; background: linear-gradient(135deg, #2563EB 0%, #3B82F6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;');
     console.log('%cAutomatización que fluye con tu negocio', 'font-size: 14px; color: #64748B;');
-    console.log('%c¿Interesado en trabajar con nosotros? contacto@flowly.com', 'font-size: 12px; color: #2563EB;');
+    console.log('%c¿Interesado en trabajar con nosotros? facuetcheverry4@gmail.com', 'font-size: 12px; color: #2563EB;');
 
 });
 
