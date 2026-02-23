@@ -1,6 +1,6 @@
-# 🎨 SIMPLIFY - Paleta de Colores
+# 🎨 LogisAI - Paleta de Colores
 
-Esta es la paleta de colores oficial de SIMPLIFY, basada en el color principal **#2563EB**.
+Esta es la paleta de colores oficial de LogisAI, basada en el color principal **#2563EB**.
 
 ---
 

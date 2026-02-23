@@ -1,5 +1,5 @@
 // ============================================
-// SIMPLIFY - JavaScript Interactions
+// LogisAI - JavaScript Interactions
 // ============================================
 
 document.addEventListener('DOMContentLoaded', function () {
